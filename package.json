@@ -1,0 +1,11 @@
+{
+  "name": "lunch-server-ws",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
